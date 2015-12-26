@@ -1,0 +1,67 @@
+ul#menu {
+list-style: none;
+}
+ul#menu li {
+display: inline;
+margin-right: 30px;
+}
+#board {
+padding: 0;
+margin: 20px;
+border-top: 1px solid black;
+border-left: 1px solid black;
+}
+.square {
+width: 30px;
+height: 30px;
+border-right: 1px solid black;
+border-bottom: 1px solid black;
+padding: 0;
+margin: 0;
+display: block;
+float: left;
+text-align: center;
+color: black;
+font-weight: bold;
+text-decoration: none;
+background: gray;
+}
+.highlightSquare {
+background: white;
+}
+.flagged {
+background: orange;
+}
+.blownMine {
+background: red;
+}
+.foundMine {
+background: green;
+}
+.opened {
+background: silver;
+}
+.count1 {
+color: blue;
+}
+.count2 {
+color: green;
+}
+.count3 {
+color: red;
+}
+.count4 {
+color: navy;
+}
+.count5 {
+color: maroon;
+}
+.count6 {
+color: teal;
+}
+.count7 {
+color: purple;
+}
+.count8 {
+color: black;
+}
