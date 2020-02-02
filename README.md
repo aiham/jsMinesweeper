@@ -1,3 +1,5 @@
+**Note:** Not maintained
+
 # jsMinesweeper
 
 Simple minesweeper game in Javascript using jQuery
