@@ -1,10 +1,10 @@
-jsMinesweeper
+# jsMinesweeper
 
 Simple minesweeper game in Javascript using jQuery
 
 Demo: http://aiham.github.io/jsMinesweeper
 
-To do
+## To do
 - Clean up the UI, design
 - Make the code JSLint compliant
 - Status messages (game over, etc)
